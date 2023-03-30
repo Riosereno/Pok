@@ -1,0 +1,21 @@
+.navbar__list {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+
+    list-style: none;
+}
+
+.navbar__link {
+    color: unset;
+}
+
+.navbar__link:hover {
+    color: lightseagreen;
+}
+
+.navbar__link--active {
+    color: lightseagreen;
+}
